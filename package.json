@@ -1,6 +1,6 @@
 {
-  "name": "modularscale-ratios",
-  "version": "1.0.0-rc1",
+  "name": "ms-ratios",
+  "version": "1.0.1",
   "description": "A collection of ratios to use with modular scales",
   "main": "index.js",
   "repository": {
