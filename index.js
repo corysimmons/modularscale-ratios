@@ -1,4 +1,4 @@
-export default ratios = {
+module.exports = {
   minorSecond: 16/15,
   majorSecond: 1.125,
   minorThird: 1.2,
