@@ -8,7 +8,7 @@ These ratios are intended to be used with a [modular scale](http://www.modularsc
 
 ```js
 // 1. import the ratios along with modularscale-js
-import modularscale-ratios as ratios from 'modularscale-ratios';
+import ratios from 'modularscale-ratios';
 import ms from 'modularscale-js'; // see https://github.com/modularscale/modularscale-js/
 
 // 2. choose a base and ratio
