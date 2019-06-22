@@ -1,4 +1,4 @@
-export default {
+module.exports = {
   minorSecond: 16/15,
   majorSecond: 1.125,
   minorThird: 1.2,
@@ -16,4 +16,4 @@ export default {
   majorEleventh: 8/3,
   majorTwelfth: 3,
   doubleOctave: 4
-};
+}
